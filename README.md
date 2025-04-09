@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Arqworks Logo.png" alt="Arqworks Logo" width="500"/>
+  <img src="/Users/sachinbhat/Desktop/Arqworks Logo.png" alt="Arqworks Logo" width="500"/>
 </p>
 
 <h1 align="center">Arqworks</h1>
