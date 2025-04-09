@@ -2,7 +2,7 @@
   <img src="assets/Arqworks Logo.png" alt="Arqworks Logo" width="500"/>
 </p>
 
-<h1 align="center">Arqworks</h1>
+
 
 <p align="center">
   A modern computer solutions business offering cutting-edge services and sleek digital design.
